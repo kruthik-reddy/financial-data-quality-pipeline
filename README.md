@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![CI](https://github.com/kruthik-reddy/financial-data-quality-pipeline/actions/workflows/python-ci.yml/badge.svg)
+
+
 # Financial Data Quality Pipeline
 
 This project simulates a data QA pipeline for market data feeds using Python, Bash, and SQL.
