@@ -1,0 +1,5 @@
+executable = scripts/scheduler.sh
+log = condor/job.log
+output = condor/job.out
+error = condor/job.err
+queue
