@@ -26,4 +26,4 @@ This project simulates a data QA pipeline for market data feeds using Python, Ba
 4. Run `scheduler.sh` to simulate QA cycle
 
 ## Author
-Your Name
+Sai Kruthik Reddy Paduru
