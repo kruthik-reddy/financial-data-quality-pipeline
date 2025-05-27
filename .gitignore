@@ -14,6 +14,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
+fdqa-env/
 
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
